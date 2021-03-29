@@ -1,7 +1,7 @@
 from tensorflow.keras.layers import GRU, Input, Permute, Reshape, Dense, Multiply, dot, Lambda, TimeDistributed, Dropout
 from tensorflow.keras.models import Model
 import tensorflow.keras.backend as K
-from utils import TIME_STEPS, string_index
+from source.utils import TIME_STEPS, string_index
 
 def attention_mechanism(input):
     x = Dense(TIME_STEPS, activation='softmax')(input)
