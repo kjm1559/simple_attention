@@ -22,3 +22,6 @@ Output format : sunday, 13, april 2014
 - Tensorflow ; 2.4.1  
 - keras : 2.4.3  
 - Numpy : 1.19.5  
+
+## Additional Resources
+[1] <a href="https://github.com/YeongHyeon/MNIST_AttentionMap#readme">[TensorFlow] Attention mechanism with MNIST dataset</a> by YeongHyeon Park
