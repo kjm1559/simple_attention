@@ -15,8 +15,8 @@ Output format : sunday, 13, april 2014
 - epoch : 50  
 <img src="./figures/49_result.png" width="250">  
 - Attention layer result    
-<img src='./figures/attention_layer_result.png' width='400
-'>
+<img src='./figures/attention_layer_result.png' width='400'>
+
 ## Environment
 - Python : 3.7.10  
 - Tensorflow ; 2.4.1  
